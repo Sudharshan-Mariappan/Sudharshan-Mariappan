@@ -46,12 +46,6 @@ I'm open to internships, projects, and collaboration in the fields of **Data Ana
 
 ---
 
-## 📊 GitHub Stats
-
-![Sudharshan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-![Sudharshan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=ffffff&color=000000&line=3b82f6&point=1f2937&area=true&hide_border=true)
-
----
 
 ## 💬 Let's Connect
 
