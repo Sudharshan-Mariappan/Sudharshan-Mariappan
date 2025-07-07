@@ -1,55 +1,65 @@
 # 👋 Hi there, I'm Sudharshan M!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-I'm a **passionate [Your Profession/Title]** with a focus on building clean, scalable, and efficient solutions. I enjoy solving real-world problems using technology and am always looking to learn and grow.
+I'm an **aspiring Data Analyst** with a growing passion for turning raw datasets into actionable business insights. I enjoy exploring data patterns, visualizing trends, and contributing to data-driven decision-making. Currently enhancing my skills in analytics, databases, and data visualization tools.
+
+I'm open to internships, projects, and collaboration in the fields of **Data Analytics**, **Business Intelligence**, and **Software Development**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Technologies
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**Web & Frameworks:**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+---
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 📚 Currently Learning
+
+- 📘 Data Structures & Algorithms  
+- 📊 Advancing my skills in Data Analytics:
+  - Working with Python for data analysis (Pandas, NumPy)  
+  - Generating insights and storytelling with data  
+  - Building dashboards and reports  
+
+---
+
+## 📊 Data Visualization
+
+- 📈 Tableau  
+- 📉 Power BI  
+
+---
+
+## 🗄️ Database Management Systems
+
+- 🟢 MongoDB  
+- 🔵 MySQL  
 
 ---
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
-
----
-
-## 📌 Featured Projects
-
-- 🔐 **[Project Name](https://github.com/your-username/project-name)**  
-  *Short description of what it does, and why it's cool or useful.*
-
-- 🧠 **[Another Project](https://github.com/your-username/another-project)**  
-  *Brief summary and technologies used.*
+![Sudharshan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+![Sudharshan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=ffffff&color=000000&line=3b82f6&point=1f2937&area=true&hide_border=true)
 
 ---
 
 ## 💬 Let's Connect
 
-I'm always open to collaboration, feedback, or just a friendly tech chat. Feel free to reach out!
+I'm excited to grow through meaningful connections, collaborations, and opportunities.  
+Let’s connect and explore how we can build data-powered solutions together!
+
+> Stay curious. Keep building. Never stop learning.  
+> The best way to predict the future is to create it.  
+> Big ideas often start with small steps.
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
