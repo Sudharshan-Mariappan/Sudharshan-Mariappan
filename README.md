@@ -56,13 +56,5 @@ If the role involves **learning, ownership, and real data**, I’m interested.
 
 ---
 
-## 🔗 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/your-profile  
-- LeetCode: https://leetcode.com/yourusername  
-- Email: your.email@example.com  
-
----
-
 *I value clarity over hype, consistency over shortcuts,  
 and learning that actually compounds.*
