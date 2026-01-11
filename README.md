@@ -2,7 +2,7 @@
 
 I am a Student focused on developing practical skills in Data Analytics through consistent, hands-on work with datasets.
 
-My current focus is on strengthening core analytics fundamentals—SQL, Python, and Data visualization—and applying them to structured problem statements rather than surface-level tool usage.
+My current focus is on strengthening core analytics fundamentals-SQL, Python, and Data visualization-and applying them to structured problem statements rather than surface-level tool usage.
 
 I approach data work with discipline and clarity, aiming to produce results that are accurate, understandable, and useful.
 
