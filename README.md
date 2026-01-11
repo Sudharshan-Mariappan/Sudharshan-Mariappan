@@ -1,64 +1,71 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=120&section=header&text=Sudharshan%20M&fontSize=40&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="120"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SudharshanM&style=flat&color=1f6feb"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=140&text=Sudharshan%20M&fontColor=ffffff&fontSize=42"/>
 </p>
 
 ---
 
-### 📊 Analytics Focus
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Visualization-334155?style=for-the-badge"/>
-</p>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="140"/>
+
+### 📊 Analytics Core
+
+<img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-334155?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-0f172a"/>
+<img src="https://img.shields.io/badge/NumPy-0f172a"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="160"/>
+
+### ⚙️ Workflow
+
+<img src="https://img.shields.io/badge/Query-0f172a"/>
+<img src="https://img.shields.io/badge/Analyze-0f172a"/>
+<img src="https://img.shields.io/badge/Visualize-0f172a"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Core Capabilities
+<table>
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java,c,cpp" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/><br>
+<img src="https://skillicons.dev/icons?i=java,c,cpp"/>
+
+</td>
+
+<td>
+
+### 🧠 Technical Arsenal
+
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Tableau-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-334155?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 Data Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tableau-0f172a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=flat-square"/>
-</p>
-
----
-
-### ⚙️ Analytical Workflow
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="120"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Query-0f172a"/>
-  <img src="https://img.shields.io/badge/Analyze-0f172a"/>
-  <img src="https://img.shields.io/badge/Visualize-0f172a"/>
-</p>
-
----
-
-### 🎯 Career Alignment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-1f6feb?style=for-the-badge"/>
@@ -67,10 +74,8 @@
 
 ---
 
-### 📊 GitHub Snapshot
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanM&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanM&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
