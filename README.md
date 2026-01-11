@@ -1,27 +1,52 @@
-# Hi, I’m Sudharshan M
+## Hi there 👋
 
-I am a Student focused on developing practical skills in Data Analytics through consistent, hands-on work with datasets.
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=2800&color=1F6FEB&center=true&vCenter=true&width=700&lines=I'm+Sudharshan+M;Data+Analytics+%7C+SQL+%7C+Python;Turning+Data+into+Clear+Insights" />
+  </h1>
+</div>
 
-My current focus is on strengthening core analytics fundamentals-SQL, Python, and Data visualization-and applying them to structured problem statements rather than surface-level tool usage.
-
-I approach data work with discipline and clarity, aiming to produce results that are accurate, understandable, and useful.
-
----
-
-## Areas of Focus
-
-- Exploring and summarizing data using SQL  
-- Cleaning and analyzing datasets with Python (Pandas, NumPy)  
-- Creating clear visualizations and dashboards  
-- Breaking down problem statements before analysis  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SudharshanM&label=Profile%20views&color=1f6feb&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## Technical Skills
+## 👨‍💻 About Me
+
+I am a **Data Analytics–focused student** with a strong interest in working with structured data, identifying patterns, and presenting insights in a clear and practical manner.
+
+My work emphasizes **fundamentals over buzzwords**—SQL for querying, Python for analysis, and visualization tools for communicating results. I aim to produce clean, reproducible analysis that is easy to understand and useful for decision-making.
+
+---
+
+## 🔍 Core Competencies
+
+- Data cleaning, exploration, and analysis  
+- Writing efficient SQL queries for reporting  
+- Creating dashboards and visual summaries  
+- Structuring analytical outputs clearly  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Analytics Stack
 
 **Data Analysis**
 - Python (Pandas, NumPy)
-- SQL (joins, aggregations, subqueries)
+- SQL (Joins, Aggregations, Subqueries)
 
 **Data Visualization**
 - Tableau  
@@ -31,22 +56,35 @@ I approach data work with discipline and clarity, aiming to produce results that
 - MySQL  
 - MongoDB  
 
-**Programming**
-- Java, C, C++
+---
+
+## 📌 Current Focus
+
+- Applying SQL to real datasets for analysis and reporting  
+- Using Python for structured data exploration and transformation  
+- Improving dashboard clarity and insight presentation  
+- Developing data analysis projects with proper documentation  
 
 ---
 
-## Current Work
+## 🎯 Career Direction
 
-- Applying SQL on real datasets to extract meaningful summaries  
-- Analyzing structured and unstructured data using Python  
-- Improving the clarity and structure of analytical outputs  
-- Developing small-scale data analysis projects with proper documentation  
+- Data Analyst / Business Intelligence internships  
+- Entry-level Data Analyst roles  
+- Analytics-driven problem-solving projects  
 
 ---
 
-## Professional Interests
+## 📈 GitHub Stats
 
-- Data Analyst and Business Intelligence internships  
-- Entry-level analytics roles  
-- Projects that involve data-driven problem solving  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SudharshanM&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanM&show_icons=true&locale=en" />
+</p>
+
+---
+
+![snake gif](https://github.com/SudharshanM/SudharshanM/blob/output/github-snake.svg)
