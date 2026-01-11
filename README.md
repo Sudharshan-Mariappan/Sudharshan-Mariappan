@@ -1,68 +1,78 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=120&section=header&text=Sudharshan%20M&fontSize=40&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <img src="./about-animation.svg" />
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SudharshanM&style=flat&color=1f6feb"/>
 </p>
 
 ---
 
-## About
+### 📊 Analytics Focus
 
-I am a data analytics-oriented student with a strong inclination toward structured data, analytical rigor, and precise communication of insights.
-
-My work emphasizes SQL-driven analysis, Python-based data processing, and visualization practices that prioritize clarity over decoration. I approach analytical tasks with attention to structure, consistency, and interpretability.
-
----
-
-## What I Focus On
-
-- Interrogating datasets using SQL for reliable summaries  
-- Processing and structuring data through Python  
-- Designing visual outputs that convey meaning efficiently  
-- Maintaining reproducible and well-documented analysis  
-
----
-
-## Technical Stack
-
-**Data Analysis**
-- Python (Pandas, NumPy)
-- SQL (Joins, Aggregations, Subqueries)
-
-**Visualization**
-- Tableau
-- Power BI
-
-**Databases**
-- MySQL
-- MongoDB
-
-**Programming**
-- Java
-- C
-- C++
-
----
-
-## Current Work
-
-<p align="left">
-  <img src="./gifs/thinking.gif" width="120"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visualization-334155?style=for-the-badge"/>
 </p>
 
-- Applying SQL across real datasets for analytical reporting  
-- Structuring Python workflows for data transformation  
-- Refining dashboard layouts for interpretability  
-- Producing analysis with clear documentation standards  
+---
+
+### 🧠 Core Capabilities
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java,c,cpp" />
+</p>
 
 ---
 
-## Direction
+### 📈 Data Stack
 
-<p align="left">
-  <img src="./gifs/typing.gif" width="120"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tableau-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=flat-square"/>
 </p>
 
-- Data Analyst and Business Intelligence internships  
-- Entry-level analytics roles  
-- Projects centered on data-backed problem solving  
+---
+
+### ⚙️ Analytical Workflow
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Query-0f172a"/>
+  <img src="https://img.shields.io/badge/Analyze-0f172a"/>
+  <img src="https://img.shields.io/badge/Visualize-0f172a"/>
+</p>
+
+---
+
+### 🎯 Career Alignment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analyst-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-1f6feb?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanM&show_icons=true&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanM&layout=compact&hide_border=true"/>
+</p>
