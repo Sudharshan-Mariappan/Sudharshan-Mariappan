@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
@@ -18,48 +18,52 @@
 
 ---
 
-## 📊 ANALYTICS CORE
+## 🧩 ANALYTICAL TOOLKIT
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-334155?style=for-the-badge"/>
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="150"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-1f6feb?style=plastic"/>
+<img src="https://img.shields.io/badge/Python-0f172a?style=plastic"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-334155?style=plastic"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Pandas-0f172a"/>
-<img src="https://img.shields.io/badge/NumPy-0f172a"/>
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=plastic"/>
+<img src="https://img.shields.io/badge/NumPy-0f172a?style=plastic"/>
 
 </td>
 
 <td width="50%" align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚙️ ANALYTICAL WORKFLOW
+## 🔄 ANALYSIS PIPELINE
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="110"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="110"/>
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="110"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Query-0f172a"/>
-  <img src="https://img.shields.io/badge/Analyze-0f172a"/>
-  <img src="https://img.shields.io/badge/Visualize-0f172a"/>
+  <img src="https://img.shields.io/badge/Extract-0f172a?style=plastic"/>
+  <img src="https://img.shields.io/badge/Examine-0f172a?style=plastic"/>
+  <img src="https://img.shields.io/badge/Explain-0f172a?style=plastic"/>
 </p>
 
 ---
 
-## 🧠 TECHNICAL ARSENAL
+## 🧠 ENGINEERING STACK
 
 <table>
 <tr>
@@ -72,10 +76,10 @@
 
 <td>
 
-<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Tableau-334155?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20BI-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=plastic"/>
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=plastic"/><br>
+<img src="https://img.shields.io/badge/Tableau-334155?style=plastic"/>
+<img src="https://img.shields.io/badge/Power%20BI-334155?style=plastic"/>
 
 </td>
 </tr>
@@ -83,7 +87,11 @@
 
 ---
 
-## 🎯 CAREER ALIGNMENT
+## 🚀 CAREER TRAJECTORY
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="140"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-1f6feb?style=for-the-badge"/>
@@ -92,12 +100,8 @@
 
 ---
 
-## 📊 PROFILE SNAPSHOT
+## 🎮 INTERACTIVE ZONE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudharshanM&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharshanM&layout=compact&hide_border=true"/>
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="220"/>
 </p>
