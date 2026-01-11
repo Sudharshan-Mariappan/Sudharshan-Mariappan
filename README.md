@@ -1,30 +1,29 @@
-# Hi, I’m Sudharshan M 👋
+# Hi, I’m Sudharshan M
 
-I work best at the intersection of **data, logic, and real-world problems**.
+I am a Student focused on developing practical skills in Data Analytics through consistent, hands-on work with datasets.
 
-I’m currently training myself to become a **Data Analyst** who doesn’t just generate charts—but understands *what the data is trying to say* and *why it matters* for decisions.
+My current focus is on strengthening core analytics fundamentals—SQL, Python, and Data visualization—and applying them to structured problem statements rather than surface-level tool usage.
 
-I’m not in a rush to label myself as an expert.  
-I focus on **getting the fundamentals right** and building credibility through consistent work.
-
----
-
-## 🧠 How I Think About Data
-
-- Data is only useful if it leads to **clear decisions**
-- Clean data matters more than fancy tools
-- Good analysis is about asking **better questions**, not just writing code
-- If I can’t explain an insight simply, I don’t consider it complete
+I approach data work with discipline and clarity, aiming to produce results that are accurate, understandable, and useful.
 
 ---
 
-## 🛠️ Skills I Actively Use
+## Areas of Focus
+
+- Exploring and summarizing data using SQL  
+- Cleaning and analyzing datasets with Python (Pandas, NumPy)  
+- Creating clear visualizations and dashboards  
+- Breaking down problem statements before analysis  
+
+---
+
+## Technical Skills
 
 **Data Analysis**
-- Python (Pandas, NumPy for data cleaning & exploration)
+- Python (Pandas, NumPy)
 - SQL (joins, aggregations, subqueries)
 
-**Visualization**
+**Data Visualization**
 - Tableau  
 - Power BI  
 
@@ -32,29 +31,22 @@ I focus on **getting the fundamentals right** and building credibility through c
 - MySQL  
 - MongoDB  
 
-**Programming Background**
+**Programming**
 - Java, C, C++
 
 ---
 
-## 📌 What I’m Currently Working On
+## Current Work
 
-- Practicing SQL with real datasets instead of mock examples  
-- Using Python to extract insights from messy, real-world data  
-- Improving how I present insights so non-technical people understand them  
-- Building small but meaningful analytics projects  
+- Applying SQL on real datasets to extract meaningful summaries  
+- Analyzing structured and unstructured data using Python  
+- Improving the clarity and structure of analytical outputs  
+- Developing small-scale data analysis projects with proper documentation  
 
 ---
 
-## 🎯 What I’m Looking For
+## Professional Interests
 
-- Data Analyst / Business Intelligence internships  
+- Data Analyst and Business Intelligence internships  
 - Entry-level analytics roles  
-- Projects where data is actually used to make decisions  
-
-If the role involves **learning, ownership, and real data**, I’m interested.
-
----
-
-*I value clarity over hype, consistency over shortcuts,  
-and learning that actually compounds.*
+- Projects that involve data-driven problem solving  
