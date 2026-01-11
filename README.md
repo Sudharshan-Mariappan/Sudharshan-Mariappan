@@ -100,8 +100,3 @@
 
 ---
 
-## 🎮 INTERACTIVE ZONE
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="220"/>
-</p>
