@@ -3,13 +3,13 @@
 </p>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&color=33FF33&center=true&vCenter=true&width=650&lines=Data+Analytics+Profile;SQL+Python+Visualization;Turning+Data+Into+Direction" />
-  </h1>
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=33FF33&center=true&vCenter=true&width=650&lines=Data+Analytics+Profile;SQL+%7C+Python+%7C+Visualization;Turning+Data+Into+Direction" />
+  </h2>
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="130"/>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
@@ -28,13 +28,15 @@
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-334155?style=for-the-badge"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Pandas-0f172a"/>
 <img src="https://img.shields.io/badge/NumPy-0f172a"/>
 
 </td>
 
 <td width="50%" align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="150"/>
 </td>
 </tr>
 </table>
@@ -44,9 +46,9 @@
 ## ⚙️ ANALYTICAL WORKFLOW
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="110"/>
 </p>
 
 <p align="center">
