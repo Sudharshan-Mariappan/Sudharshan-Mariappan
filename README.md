@@ -78,21 +78,7 @@
 
 ---
 
-## 💼 FEATURED PROJECTS
 
-- 🔹 **Secure File Sharing Platform**
-  - End-to-end encrypted file storage system
-  - Role-based authentication & access control
-
-- 🔹 **Alzheimer Detection Web App**
-  - React + ML integration for cognitive analysis
-  - Real-time audio processing pipeline
-
-- 🔹 **CTF Cryptography Toolkit**
-  - DES decryption automation scripts
-  - Keyspace optimization logic
-
----
 
 ## 📈 CAREER TRAJECTORY
 
